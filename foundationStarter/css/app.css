@@ -1,0 +1,63 @@
+.mainHeader {
+	background-color:pink;
+}
+
+.sidebar {
+	background-color:lightgray;
+}
+
+.calloutStyle {
+	margin-top:30px;
+}
+
+.box1 {
+	background-color: red;
+}
+
+.box2 {
+	background-color: orange;
+}
+
+.box3 {
+	background-color: yellow;
+}
+
+.box4 {
+	background-color: green;
+}
+
+.box5 {
+	background-color: blue;
+}
+
+.box6 {
+	background-color: indigo;
+}
+
+.box7 {
+	background-color: violet;
+}
+
+.rainbow {
+	align-content: center;
+}
+
+.rainbow2 {
+	align-items: center;
+}
+
+.card1 {
+	align-items: center;
+}
+.card2 {
+	align-items: center;
+}
+
+.arainbow {
+	margin-left: 10px;
+	align-content: center;
+}
+h3 {
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Festive', cursive;
+}
