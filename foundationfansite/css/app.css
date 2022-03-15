@@ -1,0 +1,35 @@
+body{
+	background-color: lightgray;
+}
+h1{
+	color:green;
+	font-weight:bold;
+	font-family: 'Lobster', cursive;
+}
+.mainHeader{
+	background-color: lightgray;
+}
+h3{
+	color: green;
+	margin-left: 5px;
+}
+p{
+	margin-left: 10px;
+}
+a{
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+.dojacat{
+	background-color: pink;
+}
+.fivesos{
+	background-color: lightblue;
+}
+.chainsmokers{
+	background-color: lightsalmon;
+}
+.morgan{
+	background-color: lightseagreen;
+}
+
