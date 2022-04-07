@@ -1,0 +1,40 @@
+/*Header*/
+.mainHeader {
+	text-align: center;
+	background-color: gray;
+	font-family: "Times New Roman";
+}
+/*Subhead and Byline*/
+.sub {
+	background-color: lightgray;
+}
+/*h3*/
+h3 {
+	text-align: left;
+	font-family: "Times New Roman";
+}
+/*h5*/
+h5 {
+	text-align: left;
+	font-family: "Times New Roman";
+}
+/*Body Copy*/
+p {
+	font-family: "Times New Roman";
+	padding: 10px;
+}
+/*Ordered List*/
+ol {
+	font-family: "Times New Roman";
+}
+/*Unordered List*/
+ul {
+	font-family: "Times New Roman";
+}
+/*Callout*/
+.calloutStyle {
+	background-color: lightgray;
+	font-size: 1.25em;
+}
+
+
