@@ -1,0 +1,20 @@
+body{
+	background-color: lightgray;
+}
+h1{
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+.Header{
+	background-color: darkgreen;
+}
+.Byline{
+	background-color: lightgreen;
+	font-family: 'Merriweather', serif;
+}
+p{
+	font-family: 'Times New Roman';
+}
+h5{
+	font-family: 'Times New Roman';
+}
